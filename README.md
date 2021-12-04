@@ -23,6 +23,6 @@ https://www.figma.com/file/GvWmEtpneohVrlryj07304/Gamerater?node-id=0%3A1
 # Currently known bugs
 When attempting to update a game post once you click submit to update information due to a bug the page breaks and doesn't refresh or load anything but once the user refreshes the page the updates will be shown
 
-# Wishlist / Next Steps
+# Next steps and wishlist
 Dislike feature,
 Star rating feature
