@@ -7,7 +7,7 @@ I have created an app where you can post a game that you have played and rate it
 # Technologies Used
 MERN Stack
 
-# Getting Started
+# App link
 https://gamerater-app.netlify.app/
 
 # Currently known bugs
