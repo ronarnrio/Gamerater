@@ -1,6 +1,8 @@
 # Gamerater app (Mobile Friendly)
 I have created an app where you can post a game that you have played rate it, like it, dislike it.
 
+You can only like a post once and you can only delete your own posts however you can still view everyone elses posts.
+
 # Screenshots
 <img src="https://github.com/ronarnrio/gamerater-app/blob/main/images/Screen%20Shot%202021-12-04%20at%208.41.19%20AM.png?raw=true"/>
 <img src="https://github.com/ronarnrio/gamerater-app/blob/main/images/Screen%20Shot%202021-12-04%20at%208.17.53%20AM.png?raw=true"/>
