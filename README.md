@@ -10,9 +10,10 @@ I have created an app where you can post a game that you have played and rate it
 # Technologies Used
 MERN Stack
 
-# Getting Started
+# App link
 https://gamerater-app.netlify.app/
 
+# Getting Started
 https://trello.com/b/js12ZLtS/gamerater
 
 https://lucid.app/lucidchart/a360cf2f-1962-4f6a-9cab-f7a147b38132/edit?from_docslist=true&page=0_0&invitationId=inv_adc587de-4544-4b95-9efa-0f0a59b0de1c#
